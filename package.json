@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@hi18n/core": "^0.1.10",
+    "@hi18n/react": "^0.1.5",
+    "@hi18n/react-context": "^0.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
